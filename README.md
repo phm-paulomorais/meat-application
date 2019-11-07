@@ -24,6 +24,10 @@
 
 `json-server db.json`
 
+### Iniciando aplicação backend (express)
+
+nodemon --watch backend backend/dist/server.js
+
 ## Goodies
 
 Expressões regulares usadas na validação de formulários
